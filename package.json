@@ -35,7 +35,7 @@
     "codemirror": "^6.0.2",
     "compare-versions": "^6.1.1",
     "diff": "^8.0.4",
-    "echarts": "^6.0.0",
+    "echarts": "^6.1.0",
     "fflate": "^0.8.2",
     "lucide-vue-next": "^0.563.0",
     "markdown-it": "^14.1.1",
